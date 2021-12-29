@@ -17,17 +17,45 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: python
+  icon_pack: custom
+  name: Python
+- description: 80%
+  icon: java
+  icon_pack: custom
+  name: Java
+- description: 50%
+  icon: golang
+  icon_pack: custom
+  name: Golang
+- description: 80%
+  icon: git
+  icon_pack: custom
+  name: Git
+- description: 75%
+  icon: javascript
+  icon_pack: custom
+  name: Javascript
+- description: 50%
+  icon: html
+  icon_pack: custom
+  name: HTML5
+- description: 20%
+  icon: css
+  icon_pack: custom
+  name: CSS3
+- description: 60%
+  icon: react
+  icon_pack: custom
+  name: React
+- description: 50%
+  icon: mySQL
+  icon_pack: custom
+  name: MySQL
+- description: 50%
+  icon: postgreSQL
+  icon_pack: custom
+  name: PostgreSQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
