@@ -57,7 +57,7 @@ experience:
     company_logo: microsoft_logo
     location: Beijing
     date_start: '2029-08-05'
-    date_end: ''
+    date_end: '2019-08-29'
     description: |2-
         -	Undertook the design and development of a chatbot service according to project specifications
         -	Spearheaded the chatbot program design and code writing, independently developed the WeChat chatbot, deployed the service to Linux server, and used third-party APIs to execute certain chatbot functions such as auto reply, package tracking, recipe searching and weather report
