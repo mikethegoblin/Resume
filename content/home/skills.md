@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 85%
   icon: python
   icon_pack: custom
   name: Python
-- description: 80%
+- description: 70%
   icon: java
   icon_pack: custom
   name: Java
-- description: 50%
+- description: 40%
   icon: golang
   icon_pack: custom
   name: Golang
@@ -32,7 +32,7 @@ feature:
   icon: git
   icon_pack: custom
   name: Git
-- description: 75%
+- description: 70%
   icon: javascript
   icon_pack: custom
   name: Javascript
