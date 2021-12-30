@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 title: Recent Posts
 subtitle:
@@ -30,6 +30,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive: 
+    enable: true
+    text: See All Posts
+    link: "post/"
 
 design:
   # Choose a view for the listings:
