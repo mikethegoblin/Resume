@@ -56,7 +56,7 @@ experience:
     company_url: ''
     company_logo: microsoft_logo
     location: Beijing
-    date_start: '2029-08-05'
+    date_start: '2019-08-05'
     date_end: '2019-08-29'
     description: |2-
         -	Undertook the design and development of a chatbot service according to project specifications
