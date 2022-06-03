@@ -27,7 +27,7 @@ education:
   courses:
   - course: B.A. in Computer Science, GPA 3.94/4.0
     institution: Boston University
-    year: 
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ email: "mikegu0508@gmail.com"
 highlight_name: true
 ---
 
-Zeyu Gu is currently an undergraduate student at Boston University and will continue to pursue a Master's degree in 2022. He has a strong background in Computer Science and has taken advanced courses in Distributed Systems, Deep Learning, Full-Stack Engineering etc. He is fluent in Python and Java and is currently learning Go. He is a self-motivated person and a curious learner. Besides academics, he has two internship experiences at Microsoft and Bytedance which consolidated his skills in Software Engineering.
+Zeyu Gu recently received a Bachelor's degree in Computer Science from Boston University and is pursuing a Master's degree at Yale University. He has a strong background in Computer Science and has taken advanced courses in Distributed Systems, Deep Learning, Full-Stack Engineering etc. He is fluent in Python and Java and is currently learning Go. He is a self-motivated person and a curious learner. Besides academics, he has two internship experiences at Microsoft and Bytedance which consolidated his skills in Software Engineering.
 
 Zeyu Gu is also a multi-talented person. He has played the violin for 15 years and is an enthusiastic skier. He also loves to travel, and he wishes he could go to Iceland on his next trip. 
 
