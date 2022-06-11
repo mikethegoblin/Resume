@@ -33,6 +33,8 @@ content:
     tag: 'Python'
   - name: Ocaml
     tag: 'Ocaml'
+  - name: Java
+    tag: 'Java'
   - name: Other
     tag: 'Other'
 
