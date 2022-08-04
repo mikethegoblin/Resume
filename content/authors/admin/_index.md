@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Sciend in Computer Science
+  - course: Master of Science in Computer Science
     institution: Yale University
     year: 2022-2023 (expected)
   - course: B.A. in Computer Science, GPA 3.94/4.0
