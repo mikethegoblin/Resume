@@ -32,7 +32,7 @@ feature:
   icon: git
   icon_pack: custom
   name: Git
-- description: 70%
+- description: 75%
   icon: javascript
   icon_pack: custom
   name: Javascript
@@ -40,7 +40,7 @@ feature:
   icon: html
   icon_pack: custom
   name: HTML5
-- description: 20%
+- description: 40%
   icon: css
   icon_pack: custom
   name: CSS3
@@ -48,6 +48,10 @@ feature:
   icon: react
   icon_pack: custom
   name: React
+- description: 60%
+  icon: nextjs
+  icon_pack: custom
+  name: NextJS
 - description: 50%
   icon: mySQL
   icon_pack: custom
