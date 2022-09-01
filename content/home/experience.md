@@ -32,10 +32,10 @@ experience:
     date_end: '2022-08-01'
     description: |2-
       - Took part in the full-stack development of SkyHarbor, a NextJs based web application that facilitates efficient smart contract auditing process
-      - Integrated the Slack and Discord Bot APP to SkyHarbor to support multi-platform client notification
-      - Contributed to the UI, backend API, Slack and Discord bot implementation for the client notification service
-      - Contributed to UI automated test suite using the Jest framework
-      - Worked on tasks that improve user experience, such as refactoring file upload logic for UI optimization and new feature pop-up notification
+      - Integrated the Slack and Discord Bot APP with SkyHarbor to support multi-platform client notification
+      - Developed the UI, backend API, Slack and Discord bot for the client notification service
+      - Developed UI automated test suite using the Jest framework
+      - Improved user experience by refactoring file upload logic for UI optimization and implementing new feature pop-up notification
 
   - title: Teaching Assistant
     company: Boston University
@@ -61,7 +61,7 @@ experience:
     date_start: '2020-05-25'
     date_end: '2020-08-07'
     description: |2-
-      -	Took part in API testing, test case design, and test script writing for an enterprise application
+      -	Conducted API testing, test case design, and test script writing for an enterprise application
       -	Wrote automated API testing scripts in Java using TestNG framework, which could replace 50% of the manual testing process and identify major functional bugs
       -	API test scripts achieved 70% overall code coverage rate and 100% coverage rate for major API functions
       - Wrote Jenkins Pipeline Script to implement automated testing continuous integration
