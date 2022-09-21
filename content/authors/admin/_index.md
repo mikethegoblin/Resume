@@ -10,8 +10,8 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Boston University
-  url: https://www.bu.edu/
+- name: Yale University
+  url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My academic interests include distributed systems, machine learning and software engineering.
