@@ -67,7 +67,7 @@ email: "mikegu0508@gmail.com"
 highlight_name: true
 ---
 
-Zeyu Gu recently received a Bachelor's degree in Computer Science from Boston University and is pursuing a Master's degree at Yale University. He has a strong background in Computer Science and has practical knowledge in Distributed Systems, Deep Learning, Full-Stack Engineering etc. He is fluent in major programming languages like Python, Java, Javascript, and Golang. Zeyu is a self-motivated person and a curious learner. Besides academics, he has three internship experiences at Microsoft, Bytedance, and CertiK, which consolidated his skills in Software Engineering.
+Zeyu Gu holds a Bachelor's and a Master's degree in Computer Science from Boston University and Yale University, respectively. He has a strong background in Computer Science and has practical knowledge in Distributed Systems, Deep Learning, Full-Stack Engineering etc. Proficient in Python, Java, JavaScript, and Golang, Zeyu has completed internships at Microsoft, Bytedance, and CertiK, where he gained valuable software engineering skills.  He is a self-motivated learner, constantly updating himself on the latest technologies and undertaking personal projects.
 
 Zeyu Gu is also a multi-talented person. He has played the violin for 15 years and is an enthusiastic skier. He also loves to travel, and he wishes he could go to Iceland on his next trip. 
 
