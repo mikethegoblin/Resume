@@ -72,7 +72,7 @@ experience:
     company_logo: microsoft_logo
     location: Beijing
     date_start: '2019-08-05'
-    date_end: '2019-08-29'
+    date_end: '2019-09-01'
     description: |2-
         -	Designed and implemented a multi-functional chatbot service using Python and WeChat Python SDK
         -	Independently developed the WeChat chatbot, deployed to Linux server, and integrated third-party APIs to execute certain chatbot functions such as auto-reply, package delivery tracking, recipe searching and weather report
