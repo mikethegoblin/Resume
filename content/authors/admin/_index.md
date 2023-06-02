@@ -27,7 +27,7 @@ education:
   courses:
   - course: Master of Science in Computer Science
     institution: Yale University
-    year: 2022-2023 
+    year: 2022 - 2023 
   - course: B.A. in Computer Science, GPA 3.94/4.0
     institution: Boston University
     year: 2018 - 2022
