@@ -21,11 +21,15 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+## To use, place an image named `featured.jpg/png` in your page's folder.
+# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: ''
-  focal_point: ""
-  placement: 2
+  focal_point: "center"
+  placement: 1
   preview_only: false
 
 authors:
