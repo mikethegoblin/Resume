@@ -1,0 +1,11 @@
+# Font style metadata
+name = "My custom font"
+
+# Optional Google font URL
+google_fonts = "family=Lato:wght@400;700&family=Noto+Sans+SC:wght@400;700&family=Roboto+Mono:wght@400;700"
+
+# Font families
+heading_font = "Noto Sans SC"
+body_font = "Noto Sans SC"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
